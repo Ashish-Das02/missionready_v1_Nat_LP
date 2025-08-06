@@ -146,7 +146,7 @@ const BenefitsSection: React.FC = () => {
           <div className="text-center">
             <div className="w-16 h-16 mx-auto mb-4">
               <img 
-                src="/src/assets/Icon_Matching.png" 
+                src="https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=64&h=64&fit=crop" 
                 alt="Smart Matching" 
                 className="w-full h-full object-contain"
               />
@@ -163,7 +163,7 @@ const BenefitsSection: React.FC = () => {
           <div className="text-center">
             <div className="w-16 h-16 mx-auto mb-4">
               <img 
-                src="/src/assets/Family support_resized.png" 
+                src="https://images.pexels.com/photos/1128318/pexels-photo-1128318.jpeg?auto=compress&cs=tinysrgb&w=64&h=64&fit=crop" 
                 alt="Family Support" 
                 className="w-full h-full object-contain"
               />
@@ -177,7 +177,7 @@ const BenefitsSection: React.FC = () => {
           <div className="text-center">
             <div className="w-16 h-16 mx-auto mb-4 text-[#FF8C00]">
               <img 
-                src="/src/assets/Icon_Bulb_Orange.png" 
+                src="https://images.pexels.com/photos/355948/pexels-photo-355948.jpeg?auto=compress&cs=tinysrgb&w=64&h=64&fit=crop" 
                 alt="Entrepreneur Path" 
                 className="w-full h-full object-contain"
               />
@@ -191,7 +191,7 @@ const BenefitsSection: React.FC = () => {
           <div className="text-center">
             <div className="w-16 h-16 mx-auto mb-4 text-[#FF8C00]">
               <img 
-                src="/src/assets/Icon_Progress Tracking.png" 
+                src="https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=64&h=64&fit=crop" 
                 alt="Progress Tracker" 
                 className="w-full h-full object-contain"
               />

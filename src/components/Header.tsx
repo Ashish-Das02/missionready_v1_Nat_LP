@@ -106,7 +106,7 @@ const Header: React.FC = () => {
           <div className="flex items-center space-x-6">
             <div className="flex items-center space-x-2 cursor-pointer">
               <img 
-                src="/src/assets/Icon-Language selection_resized.png" 
+                src="https://images.pexels.com/photos/1166643/pexels-photo-1166643.jpeg?auto=compress&cs=tinysrgb&w=32&h=32&fit=crop" 
                 alt="Language Selection" 
                 className="h-8 w-8"
               />

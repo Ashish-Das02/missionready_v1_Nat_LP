@@ -18,7 +18,7 @@ const AboutUsSection: React.FC = () => {
             <div className="text-center">
               <div className="w-32 h-32 mx-auto mb-4 rounded-full border-4 border-[#FF8C00] overflow-hidden">
                 <img 
-                  src="/src/assets/Headshot_Harish.png" 
+                  src="https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=128&h=128&fit=crop" 
                   alt="Harish" 
                   className="w-full h-full object-cover scale-110"
                 />
@@ -38,7 +38,7 @@ const AboutUsSection: React.FC = () => {
             <div className="text-center">
               <div className="w-32 h-32 mx-auto mb-4 rounded-full border-4 border-[#FF8C00] overflow-hidden">
                 <img 
-                  src="/src/assets/Headshot_Ashish.png" 
+                  src="https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=128&h=128&fit=crop" 
                   alt="Ashish" 
                   className="w-full h-full object-cover scale-110"
                 />
@@ -55,7 +55,7 @@ const AboutUsSection: React.FC = () => {
             <div className="text-center">
               <div className="w-32 h-32 mx-auto mb-4 rounded-full border-4 border-[#FF8C00] overflow-hidden">
                 <img 
-                  src="/src/assets/Headshot_Shefeeque.png" 
+                  src="https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=128&h=128&fit=crop" 
                   alt="Shefeeque" 
                   className="w-full h-full object-cover scale-110"
                 />
@@ -73,7 +73,7 @@ const AboutUsSection: React.FC = () => {
             <div className="text-center">
               <div className="w-32 h-32 mx-auto mb-4 rounded-full border-4 border-[#FF8C00] overflow-hidden">
                 <img 
-                  src="/src/assets/Headshot_Nathalie.png" 
+                  src="https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=128&h=128&fit=crop" 
                   alt="Nathalie" 
                   className="w-full h-full object-cover scale-110"
                 />
@@ -94,7 +94,7 @@ const AboutUsSection: React.FC = () => {
             <div className="text-center">
               <div className="w-32 h-32 mx-auto mb-4 rounded-full border-4 border-[#FF8C00] overflow-hidden">
                 <img 
-                  src="/src/assets/Sudeep.png" 
+                  src="https://images.pexels.com/photos/1128318/pexels-photo-1128318.jpeg?auto=compress&cs=tinysrgb&w=128&h=128&fit=crop" 
                   alt="Sudeep" 
                   className="w-full h-full object-cover scale-110"
                 />
@@ -112,7 +112,7 @@ const AboutUsSection: React.FC = () => {
             <div className="text-center">
               <div className="w-32 h-32 mx-auto mb-4 rounded-full border-4 border-[#FF8C00] overflow-hidden">
                 <img 
-                  src="/src/assets/Headshot_Anchit.png" 
+                  src="https://images.pexels.com/photos/355948/pexels-photo-355948.jpeg?auto=compress&cs=tinysrgb&w=128&h=128&fit=crop" 
                   alt="Anchit" 
                   className="w-full h-full object-cover scale-110"
                 />

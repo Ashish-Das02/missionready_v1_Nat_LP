@@ -53,7 +53,7 @@ const FooterSection: React.FC = () => {
             <div className="flex flex-col lg:flex-row items-center lg:items-start space-y-6 lg:space-y-0 lg:space-x-8">
               <div className="flex-shrink-0">
                 <img 
-                  src="/src/assets/Logo_MissionReady_white.png" 
+                  src="https://images.pexels.com/photos/87651/earth-blue-planet-globe-planet-87651.jpeg?auto=compress&cs=tinysrgb&w=200&h=96&fit=crop" 
                   alt="MissionReadyAI Logo" 
                   className="h-24 w-auto"
                 />
@@ -114,19 +114,19 @@ const FooterSection: React.FC = () => {
               </h3>
               <div className="flex space-x-4">
                 <a href="#" className="hover:opacity-80 transition-opacity">
-                  <img src="/src/assets/Logo_Facebook.png" alt="Facebook" className="h-10 w-10" />
+                  <img src="https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=40&h=40&fit=crop" alt="Facebook" className="h-10 w-10" />
                 </a>
                 <a href="#" className="hover:opacity-80 transition-opacity">
-                  <img src="/src/assets/Logo_Instagram.png" alt="Instagram" className="h-10 w-10" />
+                  <img src="https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=40&h=40&fit=crop" alt="Instagram" className="h-10 w-10" />
                 </a>
                 <a href="#" className="hover:opacity-80 transition-opacity">
-                  <img src="/src/assets/Logo_WhatsApp.png" alt="WhatsApp" className="h-10 w-10" />
+                  <img src="https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=40&h=40&fit=crop" alt="WhatsApp" className="h-10 w-10" />
                 </a>
                 <a href="#" className="hover:opacity-80 transition-opacity">
-                  <img src="/src/assets/Logo_X.png" alt="X (Twitter)" className="h-10 w-10" />
+                  <img src="https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=40&h=40&fit=crop" alt="X (Twitter)" className="h-10 w-10" />
                 </a>
                 <a href="#" className="hover:opacity-80 transition-opacity">
-                  <img src="/src/assets/Logo_Youtube.png" alt="YouTube" className="h-10 w-10" />
+                  <img src="https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=40&h=40&fit=crop" alt="YouTube" className="h-10 w-10" />
                 </a>
               </div>
             </div>

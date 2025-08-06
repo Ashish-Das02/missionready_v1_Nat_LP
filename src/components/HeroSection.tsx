@@ -49,7 +49,7 @@ const HeroSection: React.FC = () => {
             <div className="relative flex justify-center items-start">
               <div className="relative">
                 <img 
-                  src="/src/assets/Hero Resized.png" 
+                  src="https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop" 
                   alt="Military Professional" 
                   className="w-28 h-auto rounded-2xl shadow-lg animate-hero-entrance"
                   style={{ 

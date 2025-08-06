@@ -20,7 +20,7 @@ const PartnersSection: React.FC = () => {
           {/* Indian Army */}
           <div className="flex justify-center">
             <img 
-              src="/src/assets/Logo_Indian Army.png" 
+              src="https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=200&h=96&fit=crop" 
               alt="Indian Army" 
               className="h-24 w-auto object-contain opacity-60"
             />
@@ -29,7 +29,7 @@ const PartnersSection: React.FC = () => {
           {/* Tech Mahindra */}
           <div className="flex justify-center">
             <img 
-              src="/src/assets/Logo_TechMahindra.png" 
+              src="https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?auto=compress&cs=tinysrgb&w=200&h=96&fit=crop" 
               alt="Tech Mahindra" 
               className="h-24 w-auto object-contain opacity-60"
             />
@@ -39,7 +39,7 @@ const PartnersSection: React.FC = () => {
           {/* TATA */}
           <div className="flex justify-center">
             <img 
-              src="/src/assets/Logo_Tata.png" 
+              src="https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=200&h=96&fit=crop" 
               alt="TATA" 
               className="h-24 w-auto object-contain opacity-60"
             />
@@ -48,7 +48,7 @@ const PartnersSection: React.FC = () => {
           {/* Air India */}
           <div className="flex justify-center">
             <img 
-              src="/src/assets/Logo_AIr India.png" 
+              src="https://images.pexels.com/photos/1128318/pexels-photo-1128318.jpeg?auto=compress&cs=tinysrgb&w=200&h=96&fit=crop" 
               alt="Air India" 
               className="h-24 w-auto object-contain opacity-60"
             />
@@ -58,7 +58,7 @@ const PartnersSection: React.FC = () => {
           {/* Infosys */}
           <div className="flex justify-center">
             <img 
-              src="/src/assets/Logo_Infosys.png" 
+              src="https://images.pexels.com/photos/355948/pexels-photo-355948.jpeg?auto=compress&cs=tinysrgb&w=200&h=96&fit=crop" 
               alt="Infosys" 
               className="h-24 w-auto object-contain opacity-60"
             />
@@ -67,7 +67,7 @@ const PartnersSection: React.FC = () => {
           {/* NSDC */}
           <div className="flex justify-center">
             <img 
-              src="/src/assets/Logo_NSDC.png" 
+              src="https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=200&h=96&fit=crop" 
               alt="National Skill Development Corporation" 
               className="h-24 w-auto object-contain opacity-60"
             />
